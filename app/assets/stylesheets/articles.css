@@ -1,0 +1,20 @@
+body * {
+  box-sizing: border-box;
+}
+
+.field_with_errors input {
+  background-color: #ff7e7e;
+}
+
+input[type="text"] {
+  width: 250px;
+  height: 25px;
+  padding: 5px;
+}
+
+textarea {
+  display: block;
+  width: 250px;
+  height: 100px;
+  padding: 5px;
+}
